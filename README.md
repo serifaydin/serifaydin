@@ -4,8 +4,5 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - My Web Site - https://www.serifaydin.com/
-- 
-<!---
-serifaydin/serifaydin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Linkedin - https://www.linkedin.com/in/%C5%9Ferif-ayd%C4%B1n-68807b99/
+- Youtube - Şerif Aydın
