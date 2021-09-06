@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 - My Web Site - https://www.serifaydin.com/
 - Linkedin - https://www.linkedin.com/in/%C5%9Ferif-ayd%C4%B1n-68807b99/
-- Youtube - Şerif Aydın
+- Youtube - https://www.youtube.com/channel/UCitEiFGv38guXcgljK5CXHQ
